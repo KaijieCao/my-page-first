@@ -1,10 +1,15 @@
 # My first page for self-intorduction
 welcome to my page
 ## Personal Information
+
 Name: Kaijie Cao
+
 Age: 19
+
 Birth place: Jiangsu Province
+
 Hobbies: Games and Sports
+
 QQ: 1353292756
 
-## A Handsome boy
+## I am a Handsome boy!
