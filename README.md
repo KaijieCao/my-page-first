@@ -1,7 +1,6 @@
 # My first page for self-intorduction
 welcome to my page
 ## Personal Information
-
 Name: Kaijie Cao
 
 Age: 19
