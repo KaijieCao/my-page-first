@@ -1,9 +1,10 @@
-# my-page-first
- 
-welcome to njjjk
+# My first page for self-intorduction
+welcome to my page
+## Personal Information
+Name: Kaijie Cao
+Age: 19
+Birth place: Jiangsu Province
+Hobbies: Games and Sports
+QQ: 1353292756
 
-s1
-s2
-s3
-## skills
-lty shi shabi
+## A Handsome boy
